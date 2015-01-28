@@ -6,6 +6,9 @@
 //sub(x,y)
 int sub(int x , int y){
 	return x - y;
+
+
+	
 }
 
 //mul(x,y)
