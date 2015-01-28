@@ -33,6 +33,8 @@ int main() {
 
 	printf("div : 5 / 5 = %d\n", div(5,5));
 
+	printf("\n\n Momo want to findMax, so he call findMax() method\n");
+
 
 }
 
