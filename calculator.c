@@ -41,12 +41,15 @@ int main() {
 	printf("findMax() = %d\n", findMax());
 	
 
+	printf("test findSumBranchhhhhhhhhh");
+	printf("-\n-\n-\n-\n-\n-\n-\n-");
+
 
     printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
     printf("momo");
     printf("why you");
     printf("are so");
-    printf("SHORT!!!");
+    printf("HANDSOME!!!");
 
 }
 
