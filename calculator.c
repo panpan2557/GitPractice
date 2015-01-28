@@ -16,6 +16,12 @@ int subtract(int num1,  num2) {
 	return num1-num2;
 }
 
+int findMax() {
+	printf("Searching for Max . . .\n");
+	printf("Max(mi) found at room 201 with iNont\n");
+	return 201;
+}
+
 int avg( int a, int b, int c ){
     return (a+b+c)/3;
 }
@@ -30,11 +36,25 @@ int main() {
     	printf(add(2,1));
 
 	printf("div : 5 / 5 = %d\n", div(5,5));
-    
+
+	printf("\n\n Momo want to findMax, so he call findMax() method\n");
+	printf("findMax() = %d\n", findMax());
+	
+
+	printf("test findSumBranchhhhhhhhhh");
+	printf("-\n-\n-\n-\n-\n-\n-\n-");
+
+
     printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
+
     printf("momo\n");
     printf("why you\n");
     printf("are so\n");
     printf("SHORT!!!\n");
+
+    printf("momo");
+    printf("why you");
+    printf("are so");
+    printf("HANDSOME!!!");
 }
 
