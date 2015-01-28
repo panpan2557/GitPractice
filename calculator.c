@@ -17,8 +17,8 @@ int subtract(int num1,  num2) {
 }
 
 int findMax() {
-	printf("Searching for Max . . .");
-	printf("Max(mi) found at room 201");
+	printf("Searching for Max . . .\n");
+	printf("Max(mi) found at room 201 with iNont\n");
 
 }
 
@@ -34,6 +34,7 @@ int main() {
 	printf("div : 5 / 5 = %d\n", div(5,5));
 
 	printf("\n\n Momo want to findMax, so he call findMax() method\n");
+	
 
 
 }
