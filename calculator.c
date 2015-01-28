@@ -26,6 +26,12 @@ int main() {
 
 	printf("This test is run Momo : \n9 - 2 = %d\n", subtract(9,2) );
     	printf(mul(1,2));
-	
+
+	printf("calculator");    
+    	printf(mul(1,2));
+	printf("div : 5 / 5 = %d\n", div(5,5));
+    
+    	printf("martin said KUY");
+
 }
 
