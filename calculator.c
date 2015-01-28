@@ -16,6 +16,10 @@ int subtract(int num1,  num2) {
 	return num1-num2;
 }
 
+int test() {
+	//test
+}
+
 int main() {
 	printf("calculator");
 
