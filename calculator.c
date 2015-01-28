@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int add(x,y) {
-	printf("add has been used");
-	return x+y;
+	printf("add() has been used\n");
+	printf("Ready to add interger between %d and %d\n", x,y);
+	printf("Please wait . . . . . ");
 }
 
 
