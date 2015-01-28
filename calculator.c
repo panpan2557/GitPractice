@@ -18,6 +18,7 @@ int subtract(int num1,  num2) {
 
 int test() {
 	//test
+	printf("test\n");
 }
 
 int main() {
