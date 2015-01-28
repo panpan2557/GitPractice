@@ -16,7 +16,10 @@ int sub(int x , int y){
 
 
 //div(x,y)
-
+int div(int x, int y) { //x & y are int 
+	//x divide y
+	return x / y; //return integer
+}
 
 //pow(x,y)
 
