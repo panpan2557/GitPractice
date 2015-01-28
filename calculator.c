@@ -27,5 +27,6 @@ int main() {
 	// printf("PP narak jung");
 	// printf("Martin");
 	// printf("My name is ChaoChao");
+	printf("div : 5 / 5 = %d\n", div(5,5));
 }
 
