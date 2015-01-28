@@ -23,7 +23,10 @@ int main() {
 
     	printf(mul(1,2));
 
+    	printf(add(2,1));
+
 	printf("div : 5 / 5 = %d\n", div(5,5));
+
 
 
 }
