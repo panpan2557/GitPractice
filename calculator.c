@@ -24,6 +24,8 @@ int main() {
 	printf("Martin");
 	printf("My name is ChaoChao");
 
-	printf("9 - 2 = %d", subtract(9,2) );
+	printf("This test is run Momo : \n9 - 2 = %d\n", subtract(9,2) );
+    	printf(mul(1,2));
+	
 }
 
