@@ -23,5 +23,7 @@ int main() {
 	printf("PP narak jung");
 	printf("Martin");
 	printf("My name is ChaoChao");
+
+	printf("9 - 2 = %d", subtract(9,2) );
 }
 
