@@ -23,5 +23,7 @@ int main() {
 	printf("PP narak jung");
 	printf("Martin");
 	printf("My name is ChaoChao");
+    
+    printf(mul(1,2));
 }
 
