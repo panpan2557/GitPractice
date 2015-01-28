@@ -20,7 +20,10 @@ int findMax() {
 	printf("Searching for Max . . .\n");
 	printf("Max(mi) found at room 201 with iNont\n");
 	return 201;
+}
 
+int avg( int a, int b, int c ){
+    return (a+b+c)/3;
 }
 
 int main() {
@@ -38,6 +41,12 @@ int main() {
 	printf("findMax() = %d\n", findMax());
 	
 
+
+    printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
+    printf("momo");
+    printf("why you");
+    printf("are so");
+    printf("SHORT!!!");
 
 }
 
