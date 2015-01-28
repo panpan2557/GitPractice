@@ -12,7 +12,7 @@
 //div(x,y)
 int div(int x, int y) { //x & y are int 
 	//x divide y
-	return x / y;
+	return x / y; //return integer
 }
 
 //pow(x,y)
