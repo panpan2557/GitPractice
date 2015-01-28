@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+int subtract(int num1,  num2) {
+	return num1-num2;
+}
+
+
 int main() {
 	printf("calculator");
 	printf("The legendary of Momomomomomo");
