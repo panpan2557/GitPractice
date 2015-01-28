@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-//add(x,y)
+int add(x,y) {
+	printf("add has been used");
+	return x+y;
+}
 
 
 //sub(x,y)
