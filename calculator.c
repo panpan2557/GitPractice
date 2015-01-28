@@ -1,7 +1,13 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 int add(int x ,int y){
 	return x + y;
+}
+
+
+int subtract(int num1,  num2) {
+	return num1-num2;
 }
 
 
