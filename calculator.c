@@ -16,7 +16,7 @@ int subtract(int num1,  num2) {
 	return num1-num2;
 }
 
-int average( int a, int b, int c ){
+int avg( int a, int b, int c ){
     return (a+b+c)/3;
 }
 
@@ -31,7 +31,7 @@ int main() {
 
 	printf("div : 5 / 5 = %d\n", div(5,5));
     
-    printf("average of 1,2,3 = %d\n", average( 1,2,3 ));
+    printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
 
 }
 
