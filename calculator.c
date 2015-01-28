@@ -35,5 +35,6 @@ int main() {
     printf("momo");
     printf("why you");
     printf("are so");
+    printf("SHORT!!!");
 }
 
