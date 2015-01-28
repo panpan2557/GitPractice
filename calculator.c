@@ -25,6 +25,7 @@ int main() {
 	printf("My name is ChaoChao");
     
     printf(mul(1,2));
+    printf(add(2,1));
 	// printf("The legendary of Momomomomomo");
  	// printf("naneenyjung is so cute");
 	// printf("PP narak jung");
