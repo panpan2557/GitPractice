@@ -33,6 +33,6 @@ int main() {
     
     printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
     printf("momo");
-
+    printf("why you");
 }
 
