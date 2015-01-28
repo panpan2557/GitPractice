@@ -32,9 +32,9 @@ int main() {
 	printf("div : 5 / 5 = %d\n", div(5,5));
     
     printf("average of 1,2,3 = %d\n", avg( 1,2,3 ));
-    printf("momo");
-    printf("why you");
-    printf("are so");
-    printf("SHORT!!!");
+    printf("momo\n");
+    printf("why you\n");
+    printf("are so\n");
+    printf("SHORT!!!\n");
 }
 
