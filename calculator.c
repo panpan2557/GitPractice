@@ -16,6 +16,12 @@ int subtract(int num1,  num2) {
 	return num1-num2;
 }
 
+int findMax() {
+	printf("Searching for Max . . .");
+	printf("Max(mi) found at room 201");
+
+}
+
 int main() {
 	printf("calculator");
 
@@ -26,7 +32,6 @@ int main() {
     	printf(add(2,1));
 
 	printf("div : 5 / 5 = %d\n", div(5,5));
-
 
 
 }
