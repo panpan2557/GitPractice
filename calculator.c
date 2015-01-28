@@ -18,6 +18,13 @@ int subtract(int num1,  num2) {
 
 int main() {
 	printf("calculator");
+	printf("The legendary of Momomomomomo");
+    	printf("naneenyjung is so cute");
+	printf("PP narak jung");
+	printf("Martin");
+	printf("My name is ChaoChao");
+    
+    printf(mul(1,2));
 	// printf("The legendary of Momomomomomo");
  	// printf("naneenyjung is so cute");
 	// printf("PP narak jung");
