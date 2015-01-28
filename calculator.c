@@ -11,6 +11,7 @@
 
 //div(x,y)
 int div(int x, int y) {
+	//x divide y
 	return x / y;
 }
 
