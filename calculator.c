@@ -6,7 +6,8 @@ int mul( int x, int y ){
 
 int main() {
 	printf("calculator");
-	printf("Martin");
-    printf("naneen is so cute");
+	printf("The legendary of Momomomomomo");
+    printf("naneenyjung is so cute");
 	printf("PP narak jung");
+	printf("Martin");
 }
