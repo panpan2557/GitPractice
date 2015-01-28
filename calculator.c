@@ -10,7 +10,9 @@
 
 
 //div(x,y)
-
+int div(int x, int y) {
+	return x / y;
+}
 
 //pow(x,y)
 
